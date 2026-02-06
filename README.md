@@ -19,10 +19,10 @@ An advanced, human-like automation script for **Bomb Party (jklm.fun)**. This bo
 4.  Look for a dropdown menu (usually says `top`).
 5.  Change it to `bombparty/`.
 6.  Paste the script into the **Console** and press `Enter`.(If you're unable to paste into the console, you might have to type `allow pasting` and hit enter).
-7.  Wait for the `[System] Twoja lista słów załadowana!` message in the console.
+7.  Wait for the `[JKLM Mimic Bot] Ready! Looking for game...` message in the console.
 
 <details>
-	<summary>Click to expand</summary>
+	<summary>Click to expand code</summary>
 
 ```js
 (function() {
@@ -145,6 +145,7 @@ An advanced, human-like automation script for **Bomb Party (jklm.fun)**. This bo
 })();
 ```
 </details>
+
 ## Customization
 
 You can easily adjust the behavior in the code:
