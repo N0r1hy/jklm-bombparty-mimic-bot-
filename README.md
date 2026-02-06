@@ -15,7 +15,7 @@ An advanced, human-like automation script for **Bomb Party (jklm.fun)**. This bo
 
 1.  Copy the code from `script.js` or below.
 2.  Go to [jklm.fun](https://jklm.fun) and join a **Bomb Party** room.
-3.  Open your browser's Developer Tools (<kbd>F12</kbd> or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>).
+3.  Open your browser's Developer Tools (<kbd>F12</kbd> or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>/<kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>J</kbd>).
 4.  Look for a dropdown menu (usually says `top`).
 5.  Change it to `bombparty/`.
 6.  Paste the script into the **Console** and press `Enter`.(If you're unable to paste into the console, you might have to type `allow pasting` and hit enter).
@@ -156,7 +156,7 @@ You can easily adjust the behavior in the code:
 
 **Q: Can I get banned for using this?**
 
-A: There is always a risk, if your customized settings are settet to hight it will be visible.
+A: There is always a risk, if your settings are set too high, it will be visible.
 
 
 **Q: Ctrl + Shift + I takes a screenshot**
