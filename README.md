@@ -22,7 +22,7 @@ An advanced, human-like automation script for **Bomb Party (jklm.fun)**. This bo
 7.  Wait for the `[JKLM Mimic Bot] Ready! Looking for game...` message in the console.
 
 <details>
-	<summary>Click to expand code</summary>
+	<summary># Click to expand code</summary>
 
 ```js
 (function() {
